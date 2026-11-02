@@ -1,7 +1,7 @@
 # WorldpayCnp Ruby gem
 
 [![Gem Version](https://badge.fury.io/rb/worldpay_cnp.svg)][gem]
-![Test Suite](https://github.com/jackpocket/worldpay-cnp/workflows/Tests/badge.svg)
+![Test Suite](https://github.com/javierjulio/worldpay-cnp/workflows/Tests/badge.svg)
 
 A Ruby library for the Worldpay cnpAPI with a simple interface for creating transactions as a Ruby hash to XML and back. So no real request objects. Since the cnpAPI uses `camelCase`, this converts to and from `snake_case` for you. While Worldpay has an official [CnpOnline Ruby SDK](https://github.com/Vantiv/cnp-sdk-for-ruby), they no longer support it.
 
@@ -109,7 +109,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jackpocket/worldpay_cnp. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/jackpocket/worldpay_cnp/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/javierjulio/worldpay_cnp. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/javierjulio/worldpay_cnp/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
@@ -117,6 +117,6 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the WorldpayCnp project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/jackpocket/worldpay_cnp/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the WorldpayCnp project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/javierjulio/worldpay_cnp/blob/master/CODE_OF_CONDUCT.md).
 
 [gem]: https://rubygems.org/gems/worldpay_cnp

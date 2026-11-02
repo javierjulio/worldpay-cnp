@@ -4,11 +4,11 @@ Gem::Specification.new do |spec|
   spec.name  = "worldpay_cnp"
   spec.version = WorldpayCnp::VERSION
   spec.authors = ["Javier Julio"]
-  spec.email = ["javier@jackpocket.com"]
+  spec.email = ["jjfutbol@gmail.com"]
 
   spec.summary = "A modern Ruby interface to the Worldpay cnpAPI."
   spec.description = "A modern and simple Ruby interface to the Worldpay cnpAPI."
-  spec.homepage = "https://github.com/jackpocket/worldpay-cnp"
+  spec.homepage = "https://github.com/javierjulio/worldpay-cnp"
   spec.license = "MIT"
 
   spec.add_dependency "http", '>= 4', '< 7'
